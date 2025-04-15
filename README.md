@@ -1,2 +1,2 @@
-# Exercicio24
-Exercicio 24
+# Projeto Triangulo
+Projeto Triangulo
